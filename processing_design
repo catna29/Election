@@ -1,0 +1,73 @@
+
+Processing Design
+
+1. I made wireframe of a website  and phone on paper and Figma.
+
+2. I am researching color themes and fonts that I want to use
+
+color 5 Main color
+Black           #000
+White           #FFF
+Grey            #2f2f2f     Text body 
+Red             #fa0028      RGB (250,0,40)
+Blue            #001ec7     RGB (0,30,199)
+span color red  #ad0101
+
+3 fonts
+google font 1   font-family: "Almarai", sans-serif;  Text body
+google font 2   font-family: "Bebas Neue", sans-serif;
+google font 3   font-family: "Hind", sans-serif;
+
+Head h1-h6
+Big font header     5 rem
+Body font           1.1 em   17.6 px 
+Small               
+
+
+3. Create buttons 
+
+navbar
+            background-color        border
+default         red                   red
+Hover           while                 red
+Active          red                   red
+
+calendar
+            background-color        border
+default         white,pink           grey
+Hover           grey                 grey
+Active          white,pink           grey
+
+
+4. Adjust the pictures from original
+
+5. start put information and choose right size picture 
+
+6. start coding 
+
+7. Checking Color and font size by website 
+
+    google inspector
+    WAVE Web Accessibility Evaluation Tools for contrast color
+
+    - After checking the colors, I found one element where the contrast color 
+    didn't meet the standard in home.html > calendar > span (red text on a pink background).
+     I measured a ratio of about 2.9, so I darkened the red text.
+
+    - And one more in candidates website as well,
+
+
+8. after code checking
+
+    - Checking code by myself and organize code.
+
+    - Challenge Coding 
+        display
+        position
+        font input
+
+9. Validator code
+
+
+ 
+

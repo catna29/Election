@@ -1,0 +1,41 @@
+GDS 45 Online - Assignment 13
+
+Back to the GDES 45 Main Page
+
+Assignment 13 - 2 Page Site: Create a 2 page web site about an item in the news.
+
+You are not following along with a video for this one, you are making your own pages :)
+An item in the news would be something like elections, or a budget crisis.
+Create and use at least 1 "hero" image for the site. See this article for more info on "hero" images.
+Try to create a design that is both attractive visually and easy to use.
+For a layout, you can start with the basic templates we have done in class, like Simple 2 Column Responsive Layout with Flexbox or, create one from scratch on your own.
+If you want to try to use more advanced CSS to layout the page, you can look ahead to Chapter 15-18 in Learning Web Design. However, we will not completely cover some of these techniques for CSS layout together until later.
+Use this file as a guide to help keep important questions in mind while creating your site.
+This assignment will be graded both on the requirements below and on the design.
+There are examples in the weekly module, and
+Assignment Examples 1
+Assignment Examples 2
+Remember, the images will not show up for me unless you send them along with your html files, so zip the whole folder with your site.
+Always make sure to validate on http://validator.w3.org/ before submitting. Check due dates on the calendar.
+You can use copy/text as is from an article on the web, as long as we are not publishing these pages on the web. That means you can copy text from an article on the web to use as content.
+Optional:
+Feel free to do some sketches before creating your pages to explore design ideas. Sketches are great for working quickly to brainstorm on designs and layouts. Links are below to blank sketches pages, or make your own. You do not have to turn these in.
+Check out the first part of the video: How to wireframe a website | CharliMarieTV for background on sketching
+There are some good blank sketching templates here and especially here.
+Requirements:
+2 linked web pages are required.
+Create and use at least 1 "hero" image.
+It can be in the header or the top of the body.
+It can be either an inline image or a background image.
+It can be from a stock photography site.
+Do not use an image as you found it. Resize and optimize the image as needed.
+Use at least one other inline image in the content area. Remember to optimize your images. See Ch. 24 of Learning Web Design for more information on optimization.
+Use at least 1 background image. See Ch. 13 of Learning Web Design and the videos Background Images and Background image placement for more info on background images and thir placement.
+Put most(or all) of your CSS styles in an external style sheet, and use external styles for most of your styles. See page 348 of Learning Web Design for and the Locations for CSS and basic selectors video for info on external style sheets.
+Again, before you turn in your files, make sure you validate your document at:
+http://validator.w3.org
+It can help you spot coding errors.
+
+
+
+
